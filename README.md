@@ -24,6 +24,11 @@ The environment includes:
 - `WizardAgent`: Uses partial BFS, heuristic fallback, and value iteration (under time constraints).
 - `OptimalWizardAgent`: Builds and evaluates the full state space to find the optimal policy (within limits).
 
+## 👨‍💻 Author
+
+Gal Ofir  
+[LinkedIn Profile](https://www.linkedin.com/in/gal-ofir-341283210/)
+
 ## 🚀 Run the Project
 ```bash
 python check.py
